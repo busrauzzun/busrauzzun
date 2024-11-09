@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Büşra Uzun</h1>
-<h3 align="center">3rd Year Computer Engineering Student at Karabuk University</h3>
+<h3 align="center">Last Year Computer Engineering Student at Karabuk University</h3>
 
 - 📫 How to reach me **busrauzun111@gmail.com**
 
